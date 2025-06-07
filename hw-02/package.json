@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "homework 2",
   "main": "index.js",
+  "homepage": "https://glykov.github.io/otus-reactjs",
   "scripts": {
     "start": "webpack serve --mode development",
     "build": "webpack --mode production",
@@ -23,6 +24,7 @@
     "@babel/preset-react": "^7.27.1",
     "babel-jest": "^30.0.0-beta.3",
     "babel-loader": "^10.0.0",
+    "copy-webpack-plugin": "^13.0.0",
     "css-loader": "^7.1.2",
     "gh-pages": "^6.3.0",
     "html-webpack-plugin": "^5.6.3",
